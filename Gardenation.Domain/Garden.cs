@@ -108,9 +108,4 @@ namespace Gardenation.Domain
             throw new NotImplementedException();
         }
     }
-
-    public class UserPermission
-    {
-
-    }
 }
