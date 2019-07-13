@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gardenation.Domain", "Gardenation.Domain\Gardenation.Domain.csproj", "{AF151299-1BA9-48AD-9AA8-ADBC8C800E86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gardenation.Api", "Gardenation.Api\Gardenation.Api.csproj", "{F865C599-0F51-4639-AA1D-104B55CDB056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF151299-1BA9-48AD-9AA8-ADBC8C800E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF151299-1BA9-48AD-9AA8-ADBC8C800E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF151299-1BA9-48AD-9AA8-ADBC8C800E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF151299-1BA9-48AD-9AA8-ADBC8C800E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F865C599-0F51-4639-AA1D-104B55CDB056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F865C599-0F51-4639-AA1D-104B55CDB056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F865C599-0F51-4639-AA1D-104B55CDB056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F865C599-0F51-4639-AA1D-104B55CDB056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AB0688-09B2-4244-B2FA-B9C2B97769B0}
+	EndGlobalSection
+EndGlobal
